@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Khilari</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Java | Spring Boot</h3>
+<h3 align="center">Full Stack Developer | Java | Spring Boot  | MY SQL </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Developer;Java+Spring+Boot+Developer;Open+Source+Contributor;Always+Learning+New+Things&center=true&width=500&height=50">
@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 - 🎓 Computer Engineering Student  
-- 💻 Full Stack Developer (MERN + Java Spring Boot)  
+- 💻 Full Stack Developer (React + Java Spring Boot)  
 - 🔗 Interested in Blockchain & Web Development  
 - 🌱 Currently learning **Advanced React & Microservices**
 - 📍 Pune, India  
